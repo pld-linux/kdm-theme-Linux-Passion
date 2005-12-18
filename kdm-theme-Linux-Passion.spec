@@ -7,7 +7,8 @@ Version:	01
 Release:	0.1
 License:	GPL
 Group:		X11/Amusements
-Source0:	28724-Linux-Passion.tar.bz2
+# Source0:	28724-Linux-Passion.tar.bz2
+Source0:	http://www.kde-look.org/content/files/28724-Linux%20Passion.tar.gz
 # Source0-md5:	eb230edc6c2ca0a9c8f64b16bf96f099
 URL:		http://www.kde-look.org/content/show.php?content=28724
 Requires:	kdebase-desktop >= 9:3.2.0
