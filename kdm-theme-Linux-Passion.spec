@@ -30,7 +30,7 @@ http://kdelook.org/content/show.php?content=28724
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_datadir}/apps/kdm/themes/%{_theme}
 
-install %{_theme}/*.{desktop,jpg,png,xml} $RPM_BUILD_ROOT%{_datadir}/apps/kdm/themes/%{_theme}
+install Linux\ Passion/*.{desktop,jpg,png,xml} $RPM_BUILD_ROOT%{_datadir}/apps/kdm/themes/%{_theme}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
