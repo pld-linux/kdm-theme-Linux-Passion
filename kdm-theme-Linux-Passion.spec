@@ -1,7 +1,7 @@
 %define		_theme		Linux-Passion
 
 Summary:	Linux Passion KDM theme
-Summary(pl):	Motyw KDM Linux Passion
+Summary(pl.UTF-8):   Motyw KDM Linux Passion
 Name:		kdm-theme-%{_theme}
 Version:	01
 Release:	2
@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Linux Passion KDM theme.
 http://kdelook.org/content/show.php?content=28724
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw KDM Linux Passion.
 http://kdelook.org/content/show.php?content=28724
 
